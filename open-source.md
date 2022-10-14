@@ -1,5 +1,3 @@
-# What is Open Source and why should you care
-
 The term Open Source Software reminds me of [Abraham Lincoln's](https://en.wikipedia.org/wiki/Abraham_Lincoln#Gettysburg_Address_(1863)) widely accepted definition of Democracy. Lincoln said, "Democracy is the government of the people, by the people, and for the people". Similarly, Open Source is **software** of the **community**, by the **community**, and for the **community**.
 
 Formally, Open Source refers to **projects** or **programs** whose source code can be modified, shared, and/or commercialized by the public/community at will. 
@@ -9,22 +7,20 @@ Open Source is everywhere, the browser you are using to view this page is likely
 
 > **Note**: The term Open Source in this article will mostly refer to Open Source Software and Open Source in general.
 
-## [Table of contents](table-ofcontents)
+## [Table of contents](#table-of-contents)
 
-- [What is Open Source and why should you care](#what-is-open-source-and-why-should-you-care)
   * [Benefits of open source](#benefits-of-open-source)
   * [Getting started with Open Source](#getting-started-with-open-source)
   * [Clearing up some misconceptions](#clearing-up-some-misconceptions)
   * [Where to find Open Source projects](#where-to-find-open-source-projects)
     + [Finding projects to contribute to](#finding-projects-to-contribute-to)
-    + [Knowing where to make changes or contributions in a project](#knowing-where-to-make-changes-or-contributions-in-a-project)
-  * [What kind of contributions are legit?](#what-kind-of-contributions-are-legit-)
+    + [Knowing where to make changes or contributions in a project](#knowing-where-to-make-changes-or-contributions-to-a-project)
+  * [What kind of contributions are legit](#what-kind-of-contributions-are-legit)
   * [Some Interesting GitHub projects you can contribute to](#some-interesting-github-projects-you-can-contribute-to)
   * [Joining the Open Source community](#joining-the-open-source-community)
     + [Notable Open Source Advocates](#notable-open-source-advocates)
-  * [Bonus: Hacktoberfest](#bonus--hacktoberfest)
+  * [Bonus: Hacktoberfest](#bonus-hacktoberfest)
   * [Conclusion](#conclusion)
-
 
 ## Benefits of open source
 
