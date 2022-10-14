@@ -1,10 +1,11 @@
 # What is Open Source and why should you care
 
-The term Open Source Software reminds me of [Abraham Lincoln's](https://en.wikipedia.org/wiki/Abraham_Lincoln#Gettysburg_Address_(1863)) widely accepted definition of Democracy. Lincoln said, "Democracy is the government of the people, by the people, and for the people". Similarly, Open Source is **software** of the **community**, by the **community**, and for the **community**. Open Source refers to programs whose source code can be modified, shared, and/or commercialized by the public/community at will. 
-A license attached to an Open Source Software usually determines the extent to which the Software can be modified or utilized. More on licenses later
-The degree to which such programs can be utilized or modified without restriction is usually determined by the licenses attached to them. More on licenses later. 
+The term Open Source Software reminds me of [Abraham Lincoln's](https://en.wikipedia.org/wiki/Abraham_Lincoln#Gettysburg_Address_(1863)) widely accepted definition of Democracy. Lincoln said, "Democracy is the government of the people, by the people, and for the people". Similarly, Open Source is **software** of the **community**, by the **community**, and for the **community**.
 
-Open Source is everywhere, the browser you are using to view this page is likely an Open Sourced one. Android OS, Linux Kernel, and JavaScript are examples of OS projects that people like you and I improve daily. As a developer, technical writer, or designer; Open Source opens the doors to many opportunities; jobs, networking, communication skills, etc. There is no hierarchy/ranking in the Open Source community. We are all just contributors in the world of OS.
+Formally, Open Source refers to **projects** or **programs** whose source code can be modified, shared, and/or commercialized by the public/community at will. 
+A [**license**](https://choosealicense.com/) that is attached to an Open Source project determines the extent to which the project can be consumed, modified, or utilized.
+
+Open Source is everywhere, the browser you are using to view this page is likely an Open Sourced one. Android OS, Linux Kernel, and JavaScript are examples of OS projects that people like you and I improve daily. As a developer, technical writer, or designer; Open Source opens the doors to many opportunities; jobs, networking, communication skills, etc. 
 
 > **Note**: The term Open Source in this article will mostly refer to Open Source Software and Open Source in general.
 
@@ -27,14 +28,14 @@ Open Source is everywhere, the browser you are using to view this page is likely
 
 ## Benefits of open source
 
-Being a member of the Open Source Community brings many benefits including job opportunities, sponsorships, networking, improved communication skills, software integrity, and much more. Job recruiters certainly love people who give back to the community, being a member of the OS community will boost your chances of getting a job because it shows that you are committed to fostering new relationships and working with others. Interacting with strangers outside your comfort zone will also improve your ability to communicate ideas effectively when working on projects. In the OS community, you are free to break things and make honest mistakes. Others will fix them and ensure that the software is working perfectly.
-With Open Source, even when you abandon a project. The community will keep it alive. This saves you a great deal of time to work on other projects. Some major benefits oF contributing to Open Source:
+Being a member of the Open Source Community brings many benefits including job opportunities, sponsorships, networking, improved communication skills, software integrity, and much more. Job recruiters watch out for people who give back to the community. Contributing to OS will boost your chances of getting  jobs because it shows that you are willing to foster new relationships and work with others. Remotely interacting with new people also improves your ability to communicate ideas effectively when working on projects.
 
-- Free Swag
-- Networking and meeting new people
-- It makes you a better coder/writer - People will correct you whenever you break stuff or find errors in your work
+In the OS community, you are free to break things and make honest mistakes. Others will fix them and ensure that the software is working correctly.
+With Open Source, even when you abandon a project. The community will keep it alive. This saves you a great deal of time to work on other projects. Some major benefits of contributing to Open Source include:
 
-Imagine a world without Open Source. 
+- Getting free Swag.
+- Networking and meeting new people.
+- It makes you a better coder/writer - People will correct you whenever you break stuff or find errors in your work.
 
 ## Getting started with Open Source
 
@@ -50,39 +51,36 @@ Are you new to the Open Source Community? If your answer is yes, then you are in
 If you are looking for Open Source Projects to contribute to, look no further than GitHub - the defacto home of Open Source projects.
 GitHub is home to millions of Open Source projects. There are lots of projects that can align with your specialty if you know how to look properly. 
 
-Finding Open Source projects to contribute to can be difficult, especially for newcomers. One reason is that they are not looking in the right places. When it comes to contributing to Open Source, there are two problems newcomers are often faced with:
+Finding Open Source projects to contribute to can be difficult, especially for newcomers. One reason is that they are not looking in the right places. When it comes to contributing to Open Source, newcomers are often faced with two problems:
 
 - Finding projects to contribute to
 - Knowing where to make changes or contributions to a project
 
 ### Finding projects to contribute to
 
-1. Go to [github.com](https://github.com)
+1. Go to [GitHub](https://github.com)
 2. Click issues in the navigation panel
-3. Filter the results by entering a keyword into the search panel e.g good first issue, help-wanted, JavaScript, technical writing, documentation, react, etc
-4. Search for something specific within your domain such as react, documentation, design, etc
-**good first issue and first-timers only** are labels for issues that are appropriate for newcomers to work on. Try these first if you are just starting out. 
+3. Filter the results by entering a keyword into the search bar e.g good first issue, help-wanted, JavaScript, technical writing, documentation, React, etc
+4. Search for something specific within your domain such as react, documentation, design, etc **good first issue** and **first-timers only** are labels for issues that are appropriate for newcomers to work on. Try these first if you are just starting out. 
 5. Find an issue you would like to work on. If it hasn't been assigned to someone else, ask the maintainers if you can work on the issue and create a PR for it.
-6. Alternatively, you can visit any of these websites to find OS projects worthy of your time:
-7. Many big projects often have abandoned or incomplete issues. You can find these by searching for "todo" or looking through much older  issues which have not been fixed.
-These links contain thousands of issues that are suitable for newcomers and experts as well.
+6. Many big projects often have abandoned or incomplete issues. You can find these by searching for "todo" or looking through much older issues.
 
-> **Note**: Alternatively, you can visit of the websites below to find issues without going through the hassle of following the steps above. The following websites are tailor-made for finding issues easily:
+> **Note**: Alternatively, you can visit any of the websites below to find issues without going through the hassle of following the steps above. The following websites are tailor-made for finding issues easily:
 
 - https://up-for-grabs.net
 - https://www.firsttimersonly.com/
 - https://goodfirstissues.com/
-- code-triage.com
+- codetriage.com
 - https://goodfirstissue.dev/
 
-If you are not familiar with Open Source etiquette, then I suggest you read these briefly:
+If you are not familiar with Open Source etiquette, then I suggest that you read these briefly:
 
 - [Open Source Guide](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to)
 - [Open Source Etiquette](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Open_source_etiquette)
 
 ### Knowing where to make changes or contributions to a project
 
-Believe it or not, knowing how to find bugs, errors, mistakes, etc in files in a project is also a skill. If you go into a project's repo, you'll definitely spot an issue somewhere if you look closely enough. some of the most common issues you can find in repos include:
+Believe it or not, knowing how to find bugs, errors, mistakes, etc in files in a project is also a skill. If you go into a project's repo, you'll likely spot an issue somewhere if you look close enough. some of the most common issues you can find in repos include:
 - Broken links in websites, project documentation, etc
 - Grammatical and Spelling errors
 - Lacklustre designs
@@ -91,16 +89,16 @@ Believe it or not, knowing how to find bugs, errors, mistakes, etc in files in a
 - Absence of issue/PR templates in a repo
 - Lack of contribution guidelines
 
-> **Note**: Always make sure you go through the README.md and CONTRIBUTING.md files of a repository before creating Pull Requests. This will ensure that you adhere to the repositories guidelines for making contributions. Sometimes good PRs are rejected simply because the contributor did not follow the Projects rules. This could be something as trivial as not giving your PR an appropriate title or description. So be wary of this
+> **Note**: Always make sure you go through the README.md and CONTRIBUTING.md files of a repository before creating Pull Requests. This will ensure that you adhere to a project's guidelines for making contributions. Sometimes valuable PRs are rejected because contributor's did not follow a Project's rules. This could be something as trivial as not giving your PR an appropriate title or description. So be wary of this
 
-These are just a few off the top of my head. There are so many more areas in which you can find issues with a project. Just ensure that you do not open irrelevant or low-quality issues. Just bear these in mind before opening issues.
+These are just a few off the top of my head. There many ways in which you can find issues with a project. Ensure that you do not open irrelevant or low-quality issues. Also, bear these in mind before opening issues.
 
-1. A good way to know if your issue is a quality one is to ask yourself "how would this change or suggestion help/affect the users and maintainers of this project." If your answer does not sound credible to you, do not open it.
-2. Always give insights into the potential benefits and of your added features, changes, and corrections when opening issues. 
+1. A good way to know if your issue is a quality one is to ask yourself , "how would this change or suggestion help the users and maintainers of this project." If your answer does not sound credible to you, do not open it.
+2. Your issue should tell the maintainer's of a project the relevance of your suggestion
 
 ## What kind of contributions are legit?
 
-Contributions to Open Source are not limited to Pull Requests only. Raising Issues, making Code Reviews, Financial Contributions, etc. are all ways of contributing to Open Source. Until recently, non-code stuff like blog posts, Figma designs, etc were not popular in the Open Source community. Things are beginning to change, however. This year's [Hacktoberfest](https://hacktoberfest.com) which is accepting low-code and non-code contributions for the first time after 8 years is a good example of this new trend.
+Contributions to Open Source are not limited to Pull Requests only. Raising Issues, making Code Reviews, Financial Contributions, etc. are other ways of contributing to Open Source. Until recently, non-code stuff like blog posts, Figma designs, etc was not popular in the Open Source community. Things are beginning to change, however. This year's [Hacktoberfest](https://hacktoberfest.com) which is accepting low-code and non-code contributions for the first time after 8 years is a good example of this new trend.
 
 ## Some Interesting GitHub projects you can contribute to
 
@@ -110,14 +108,14 @@ Contributions to Open Source are not limited to Pull Requests only. Raising Issu
 
 [FreeCodeCamp Quiz Site](https://github.com/freeCodeCamp/Developer_Quiz_Site) - You can add new quizzes to the site by following the instructions in the repo.
 
-[Abbreve](https://github.com/Njong392/Abbreve) - A website for quickly checking the meaning of common abbreviations/slangs used for communicating over social media.
+[Abbreve](https://github.com/Njong392/Abbreve) - A website for quickly checking the meaning of common abbreviations and slangs used for communicating over social media.
 
 ## Joining the Open Source community
 
 Community, community, community... 
-We keep mentioning community in the world of Open Source. This is because Open Source would not exist without the amazing individuals who work hard daily to make Open Source projects free and accessible to people like you and me.
+We keep mentioning community in the world of Open Source. This is because Open Source would not exist without the amazing group of individuals who are constantly working hard to make Open Source projects free and accessible to people like you and me.
 
-Below is a list of arguably the most popular Open Source communities on Twitter (that I know of). What's the relevance of joining a community? There are so many benefits to joining OS communities, some of which are: getting help, discovering interesting projects, meeting new people through collaboration, hiring devs, access to legit job listings, etc.
+Below is a list of arguably the most popular Open Source communities on Twitter (that I know of).
 
  - [FreeCodeCamp](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344)
  - Everything Open Source (contributions, hackathons, first timers, etc) [EddieHub](http://discord.eddiehub.org/)
@@ -130,7 +128,7 @@ Below is a list of arguably the most popular Open Source communities on Twitter 
 ### Notable Open Source Advocates
 Follow these people on Twitter to get all the latest updates on the happenings in the Open Source community:
 
-- [Eddie Jaoude](https://twitter.com/eddiejaoude) - Eddie is a devoted member of the OS community, he hosts Twitter spaces regularly to help people who are just getting started in Open Source. He has a youtube channel where he creates content beyond Open Source (freelancing tips, content creation tips, mini-tutorials, etc)
+- [Eddie Jaoude](https://twitter.com/eddiejaoude) - Eddie is a devoted member of the OS community, he hosts Twitter spaces regularly to help people who are just getting started in Open Source. He has a YouTube channel where he creates content beyond Open Source (freelancing tips, content creation tips, mini-tutorials, etc)
 - [Dunsin](https://mobile.twitter.com/dunsinwebdev) - Dunsin is the creator of Code-Magic, which is a website for generating CSS code for different effects through GUI. She's also an active member of the OS community on Twitter.
 - [YK Dojo](https://twitter.com/ykdojo) - YK is also a popular YouTuber and an avid member of the OS community. He often does live-coding Streams on Twitch too
 
@@ -142,9 +140,8 @@ Hacktoberfest is a yearly celebration of Open Source and the Open Source communi
 
 A minimum of 4 accepted Pull Requests is required before the 25th of October to win a Hacktoberfest-themed shirt and sticker. Starting from this year, low-code and/or no-code contributions will also be accepted as valid contributions.
 
-If you'd like to participate in the next Hacktoberfest, set a reminder for October now to avoid missing out on all the fun.
+If you'd like to take part in the next Hacktoberfest, set a reminder for October now to avoid missing out on all the fun.
 
 ## Conclusion
 
-As you can see, there's nothing to hate about Open Source. The world of Open Source exposes us to opportunities, meeting new friends, winning swag/money, and many more. Without Open Source, the world would certainly not be as advanced as it is today in terms of technology.
-
+Imagine a world without Open Source. As you can see, there's nothing to hate about Open Source. The world of Open Source exposes you to opportunities, meeting new friends, winning swag/money . Without Open Source, the world would certainly not be as advanced as it is today in terms of technology.
