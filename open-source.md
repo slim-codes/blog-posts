@@ -67,11 +67,11 @@ Finding Open Source projects to contribute to can be difficult, especially for n
 
 > **Note**: Alternatively, you can visit any of the websites below to find issues without going through the hassle of following the steps above. The following websites are tailor-made for finding issues easily:
 
-- https://up-for-grabs.net
-- https://www.firsttimersonly.com/
-- https://goodfirstissues.com/
-- codetriage.com
-- https://goodfirstissue.dev/
+- [up-for-grabs.net](https://up-for-grabs.net)
+- [firstTimersOnly](https://www.firsttimersonly.com/)
+- [goodFirstIssues](https://goodfirstissues.com/)
+- [codetriage.com](https://codetriage.com)
+- [goodfirstissue.dev](https://goodfirstissue.dev/)
 
 If you are not familiar with Open Source etiquette, then I suggest that you read these briefly:
 
@@ -102,13 +102,13 @@ Contributions to Open Source are not limited to Pull Requests only. Raising Issu
 
 ## Some Interesting GitHub projects you can contribute to
 
-[LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Free Open Source alternative to Linktree.
-[defaang](https://github.com/ykdojo/defaang) - Free Open Source alternative to LeetCode.
-[Code-Magic](https://github.com/Dun-sin/Code-Magic) - A website for generating performant CSS with GUI. Plus it's purely based on TypeScript, CSS, and HTML (No frameworks involved).
+- [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Free Open Source alternative to Linktree.
+- [defaang](https://github.com/ykdojo/defaang) - Free Open Source alternative to LeetCode.
+- [Code-Magic](https://github.com/Dun-sin/Code-Magic) - A website for generating performant CSS with GUI. Plus it's purely based on TypeScript, CSS, and HTML (No frameworks involved).
 
-[FreeCodeCamp Quiz Site](https://github.com/freeCodeCamp/Developer_Quiz_Site) - You can add new quizzes to the site by following the instructions in the repo.
+- [FreeCodeCamp Quiz Site](https://github.com/freeCodeCamp/Developer_Quiz_Site) - You can add new quizzes to the site by following the instructions in the repo.
 
-[Abbreve](https://github.com/Njong392/Abbreve) - A website for quickly checking the meaning of common abbreviations and slangs used for communicating over social media.
+- [Abbreve](https://github.com/Njong392/Abbreve) - A website for quickly checking the meaning of common abbreviations and slangs used for communicating over social media.
 
 ## Joining the Open Source community
 
@@ -117,11 +117,11 @@ We keep mentioning community in the world of Open Source. This is because Open S
 
 Below is a list of arguably the most popular Open Source communities on Twitter (that I know of).
 
- - [FreeCodeCamp](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344)
- - Everything Open Source (contributions, hackathons, first timers, etc) [EddieHub](http://discord.eddiehub.org/)
- - A large OS community for OS projects and networking in general [4C](https://discord.gg/4c-784142072763383858)
-- defaang  - Everything defaang [defaang / dojo clan](https://discord.gg/nNtVfKddDD)
-- [GitHub](https://github.com) - Largest Open Source community in the world, all the communities listed above have their repositories on hosted on GitHub.
+ - [FreeCodeCamp](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) 
+ - [EddieHub](http://discord.eddiehub.org/) Everything Open Source (contributions, hackathons, first timers, etc). 
+ - [4C](https://discord.gg/4c-784142072763383858) A large OS community for OS projects and networking.
+- [defaang / dojo clan](https://discord.gg/nNtVfKddDD) YK Dojo's OS community.
+- [GitHub](https://github.com) - The largest Open Source community in the world, all the communities listed above have their repositories on hosted on GitHub.
 
 > **Note**: You should have a good reason for joining any of these communities. If you want to benefit from these communities, you should engage with the members, interact and find people who are within your domain of interests, and do not spam. Also, ensure that you adhere to the rules of these communities too.
 
